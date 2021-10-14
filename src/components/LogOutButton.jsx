@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 12,
     paddingVertical: 4,
   },
-  lebel: {
+  label: {
     fontSize: 14,
     color: 'rgba(255, 255, 255, 0.7)',
   },
